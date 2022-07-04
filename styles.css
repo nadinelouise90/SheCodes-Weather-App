@@ -1,0 +1,125 @@
+.container {
+  margin-top: 50px;
+  border: black;
+}
+
+#search {
+  font-size: 20px;
+  font-family: "Comfortaa", cursive;
+  margin-left: 70px;
+}
+
+#animation {
+  background: url("https://c.tenor.com/PLqmB_SmXQMAAAAC/clouds-sky.gif");
+  background-size: cover;
+  border-radius: 100px;
+}
+
+body {
+  background-image: url("346351-download-free-rain-wallpaper-weather-wallpaper-clouds-rain.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 200px;
+}
+form {
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+  color: pink;
+}
+input {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Comfortaa", cursive;
+  border-radius: 100px;
+  margin: 20px;
+  color: pink;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: "Comfortaa", cursive;
+  text-align: center;
+}
+
+h5 {
+  font-family: "Comfortaa", cursive;
+  text-align: center;
+  font-weight: bold;
+}
+
+.days {
+  text-orientation: upright;
+  writing-mode: vertical-lr;
+  text-align: center;
+  font-size: 29px;
+  font-weight: bold;
+  font-family: "Comfortaa", cursive;
+  display: inline;
+}
+
+.daysbold {
+  text-orientation: upright;
+  writing-mode: vertical-lr;
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: "Comfortaa", cursive;
+  display: inline;
+  color: pink;
+}
+
+#city {
+  text-orientation: upright;
+  writing-mode: vertical-lr;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Comfortaa", cursive;
+  display: inline;
+}
+
+#city-here {
+  text-orientation: upright;
+  writing-mode: vertical-lr;
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Comfortaa", cursive;
+  display: inline;
+}
+
+#text {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Comfortaa", cursive;
+}
+
+.uk {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Comfortaa", cursive;
+  line-height: 1;
+}
+
+.abroad {
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: "Comfortaa", cursive;
+  line-height: 1;
+}
+
+span {
+  font-size: 50px;
+  color: pink;
+  font-family: "Comfortaa", cursive;
+  font-weight: bold;
+
+  padding: 60px;
+}
